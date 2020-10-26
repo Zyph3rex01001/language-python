@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/atom/language-python)
+
 # Python language support in Atom
 [![macOS Build Status](https://travis-ci.org/atom/language-python.svg?branch=master)](https://travis-ci.org/atom/language-python)
 [![Windows Build Status](https://ci.appveyor.com/api/projects/status/hmxrb9jttjh41es9/branch/master?svg=true)](https://ci.appveyor.com/project/Atom/language-python/branch/master)
